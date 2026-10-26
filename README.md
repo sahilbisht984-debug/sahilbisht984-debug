@@ -1,4 +1,4 @@
-<img src="github-banner.svg" alt="Profile banner" width="100%">
+<img src="github-banner-1.svg" alt="Profile banner" width="100%">
 # 💫 About Me:
 🎓 BCA 1st Year Student<br>💻 Aspiring Software Developer<br>🌱 Currently Learning Programming & Web Development<br>🚀 Exploring New Technologies<br>🎯 Building Projects and Improving My Skills<br>🤝 Open to Learning and Collaboration
 
